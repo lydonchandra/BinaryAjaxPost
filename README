@@ -1,5 +1,8 @@
-Uint8array 
+POST Binary Data (Image/Jpeg etc) using XMLHttpRequest.
 
+Code forked from http://www.nihilogic.dk/labs/binaryajax/binaryajax.js
+
+Uint8array only works on the latest browsers, as of Monday 21 May 00:00 WAST:
 
 Working on Apple iPad 3
 { host: 'x.x.x.x',
